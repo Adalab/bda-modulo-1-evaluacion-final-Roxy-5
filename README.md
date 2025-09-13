@@ -1,3 +1,5 @@
+![](https://github.com/Roxy-5/Evaluacion1-Adalab/blob/main/image.jpg)
+
 ### 🛸 Evaluación final módulo 1
 
 Descubre el poder de Python
@@ -8,7 +10,7 @@ Descubre el poder de Python
 2. Instala las dependencias necesarias.
 3. Ejecuta el proyecto.
 
-### 🪐 Autor
+### 🪐 Autors
 
 Rocío Ramírez
 
